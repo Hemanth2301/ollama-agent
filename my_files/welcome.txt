@@ -1,0 +1,7 @@
+Welcome to your agent's folder!
+
+Put any text files here (.txt, .md, .csv, .py ...) and ask the agent about them.
+Example questions:
+- What files are in my folder?
+- Read welcome.txt and summarize it.
+- Find files with "bill" in the name.
